@@ -2,15 +2,17 @@ This is a port of aobench ( http://code.google.com/p/aobench/ ) for Android 2.3.
 
 Benchmarks:
 -----------
-OUYA (256x256, float): 33260ms
+OUYA (256x256, float): 33260ms (33.2sec)
 
-OUYA (1920x1080, float): 1048888ms
+![Rendering](https://twitter.com/_Falken/status/291123591997710336/photo/1/large)
 
-Kindle Fire HD (256x256, float): 46625ms
+OUYA (1920x1080, float): 1048888ms (1048.8sec / 17m)
 
-Kindle Fire HD (256x256, double): 65174ms
+Kindle Fire HD (256x256, float): 46625ms (46.6sec)
 
-Kindle Fire HD (1280x800, float): 730170ms
+Kindle Fire HD (256x256, double): 65174ms (65.2sec)
+
+Kindle Fire HD (1280x800, float): 730170ms (730.2sec / 12m)
 
 Kindle Fire HD (1280x800, double): TBD
 
