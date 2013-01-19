@@ -18,7 +18,8 @@ include $(CLEAR_VARS)
 
 LOCAL_MODULE    := aobench-android
 LOCAL_SRC_FILES := main.c aobench.c font.c
-LOCAL_CFLAGS	+= -O3
+LOCAL_ARM_MODE	:= arm
+LOCAL_CFLAGS	+= -march=armv7-a -mtune=cortex-a8 -mfloat-abi=softfp -mfpu=neon -O3
 LOCAL_LDLIBS    := -llog -landroid -lEGL -lGLESv1_CM
 LOCAL_STATIC_LIBRARIES := android_native_app_glue
 
