@@ -2,31 +2,23 @@ This is a port of aobench ( http://code.google.com/p/aobench/ ) for Android 2.3.
 
 Benchmarks:
 -----------
-OUYA (256x256, float): 5,401ms (5.4sec)
+OUYA (256x256, float): 5,401ms (5.4sec) / https://twitter.com/_Falken/status/292602217083576320
 
 ![Rendering](http://falken42.github.com/aobench-ouya-256x256-float.jpg)
 
-https://twitter.com/_Falken/status/292602217083576320
-
-OUYA (1920x1080, float): 169,805ms (169.8sec / 2.83min)
+OUYA (1920x1080, float): 169,805ms (169.8sec / 2.83min) / https://twitter.com/_Falken/status/292602468922163200
 
 ![Rendering](http://falken42.github.com/aobench-ouya-1920x1080-float.jpg)
 
-https://twitter.com/_Falken/status/292602468922163200
-
-Kindle Fire HD (256x256, float): 7,732ms (7.7sec)
+Kindle Fire HD (256x256, float): 7,732ms (7.7sec) / https://twitter.com/_Falken/status/292602683444056064
 
 ![Rendering](http://falken42.github.com/aobench-kindlefirehd-256x256-float.jpg)
 
-https://twitter.com/_Falken/status/292602683444056064
-
 Kindle Fire HD (256x256, double): TBD
 
-Kindle Fire HD (1280x800, float): 120,946ms (120.9sec / 2.01min)
+Kindle Fire HD (1280x800, float): 120,946ms (120.9sec / 2.01min) / https://twitter.com/_Falken/status/292602896128823296
 
 ![Rendering](http://falken42.github.com/aobench-kindlefirehd-1280x800-float.jpg)
-
-https://twitter.com/_Falken/status/292602896128823296
 
 Kindle Fire HD (1280x800, double): TBD
 
